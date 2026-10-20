@@ -12,6 +12,8 @@ Ich suche eine **Werkstudentenstelle in Deutschland**.
 
 ### Projekte
 
+- [measurement-testbench](https://github.com/nabwei/measurement-testbench): C++-/Python-Messkette mit simuliertem Gerät, CRC-Prüfung, Fehlerinjektion, Zeitstempelanalyse und automatisierten Tests.
+- [phase-shift-demo](https://github.com/nabwei/phase-shift-demo): N-Schritt-Phasenschätzung auf synthetischen Streifenbildern, einfaches Entpacken sowie Rausch- und Driftversuche mit Fehlerauswertung.
 - [pid_regler_c_main](https://github.com/nabwei/pid_regler_c_main): Diskreter PID-Regler in C mit Stellgrößenbegrenzung, einfachem Anti-Windup und Simulation einer PT1-ähnlichen Strecke.
 
 Hier veröffentliche ich ausschließlich unabhängige, allgemeine Projekte. Code und Daten aus meiner Institutsarbeit und Bachelorarbeit bleiben unveröffentlicht.
@@ -32,6 +34,8 @@ I am looking for a **working-student position in Germany**.
 
 ### Projects
 
+- [measurement-testbench](https://github.com/nabwei/measurement-testbench): A C++/Python measurement pipeline with a simulated device, CRC checks, fault injection, timestamp analysis and automated tests.
+- [phase-shift-demo](https://github.com/nabwei/phase-shift-demo): N-step phase estimation on synthetic fringe images, simple unwrapping, and noise/drift experiments with error analysis.
 - [pid_regler_c_main](https://github.com/nabwei/pid_regler_c_main): A discrete PID controller in C with output limits, simple anti-windup and a simulation of a first-order-like plant.
 
 I publish only independent, generic projects here. Institute and bachelor thesis code and data remain unpublished.
